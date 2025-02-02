@@ -49,4 +49,4 @@ This project is licensed under the MIT License.
 - Ensure you have a stable internet connection for downloading pre-trained models.
 - Modify the sample text in the notebook for custom similarity analysis.
   
-![Alt Text](https://github.com/username/repository-name/raw/main/path/to/image.png)
+![Alt Text](rankings.jpg)
